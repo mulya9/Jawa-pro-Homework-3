@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90046b04-9e24-4d58-bc99-93d337dad913" name="Changes" comment="maven">
-      <change afterPath="$PROJECT_DIR$/Jawa-pro-Homework-3/src/main/java/lessons_29/model/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jawa-pro-Homework-3/src/main/java/lessons_29/model/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jawa-pro-Homework-3/src/main/java/lessons_29/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jawa-pro-Homework-3/src/main/java/lessons_29/model/db/DBView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/db/DBView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Person.java" beforeDir="false" />
-    </list>
+    <list default="true" id="90046b04-9e24-4d58-bc99-93d337dad913" name="Changes" comment="fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676796336686</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix">
+      <created>1676810657480</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676810657480</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="maven" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
