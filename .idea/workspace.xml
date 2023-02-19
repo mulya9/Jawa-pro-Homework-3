@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90046b04-9e24-4d58-bc99-93d337dad913" name="Changes" comment="maven" />
+    <list default="true" id="90046b04-9e24-4d58-bc99-93d337dad913" name="Changes" comment="maven">
+      <change afterPath="$PROJECT_DIR$/Jawa-pro-Homework-3/src/main/java/lessons_29/model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jawa-pro-Homework-3/src/main/java/lessons_29/model/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jawa-pro-Homework-3/src/main/java/lessons_29/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jawa-pro-Homework-3/src/main/java/lessons_29/model/db/DBView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/db/DBView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Person.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Jawa-pro-Homework-3" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -43,9 +53,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\IdeaProjects\jdbs_exsempl\Jawa-pro-Homework-3" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="lessons_29.model.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons_29.model.Main" />
       <module name="jdbs_example" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,7 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lessons_29.model.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676796100471</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="maven">
+      <created>1676796336686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676796336686</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
